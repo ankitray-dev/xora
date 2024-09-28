@@ -2,23 +2,23 @@ export const features = [
     {
       id: '0',
       icon: '/images/feature-1.png',
-      caption: 'Easy integration',
-      title: 'Work smarter not harder',
-      text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+      caption: 'Effortless Integration',
+      title: 'Work Smarter, Not Harder',
+      text: "With Xora, tedious tasks are a thing of the past. Automation and intelligent workflows elevate your productivity to new levels—it's like having an extra boost of energy without the caffeine crash.",
       button: {
         icon: '/images/magictouch.svg',
-        title: 'Watch the demo',
+        title: 'Explore the Demo',
       },
     },
     {
       id: '1',
       icon: '/images/feature-2.png',
-      caption: 'Secure & trustworthy',
-      title: 'Sleep easy, we got your back',
-      text: 'Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.',
+      caption: 'Reliable & Secure',
+      title: "Rest Easy, We've Got You Covered",
+      text: 'Your data’s safety is our top concern. With cutting-edge encryption and advanced privacy settings, Xora ensures your information is locked down tighter than a vault.',
       button: {
         icon: '/images/docs.svg',
-        title: 'Read the docs',
+        title: 'Access the Documentation',
       },
     },
   ];
@@ -27,85 +27,85 @@ export const features = [
     {
       id: '0',
       icon: '/images/detail-1.png',
-      title: 'AI automated video editing',
+      title: 'AI-Powered Video Editing',
     },
     {
       id: '1',
       icon: '/images/detail-2.png',
-      title: 'Collaborate with your team',
+      title: 'Team Collaboration Made Easy',
     },
     {
       id: '2',
       icon: '/images/detail-3.png',
-      title: 'Ultra fast cloud-engine',
+      title: 'Blazing-Fast Cloud Engine',
     },
     {
       id: '3',
       icon: '/images/detail-4.png',
-      title: '24 / 7 Customer support',
+      title: 'Round-the-Clock Customer Support',
     },
   ];
   
   export const faq = [
     {
       id: '0',
-      question: 'How easy is it to setup Xora?',
+      question: 'How easy is it to set up Xora?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'Setting up Xora is quick and straightforward. Simply follow the step-by-step onboarding process, and you’ll be up and running in no time.',
     },
     {
       id: '1',
       question: 'Can I integrate Xora with other platforms?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'Yes, Xora is designed to seamlessly integrate with a variety of platforms through API connections and third-party tools.',
     },
     {
       id: '2',
-      question: 'How often do you add new content?',
+      question: 'How frequently is new content added to Xora?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'We add fresh content on a regular basis, ensuring that you always have access to the latest updates and features.',
     },
     {
       id: '3',
-      question: 'What your refund policy?',
+      question: 'What is your refund policy?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'We offer a hassle-free refund policy. If you’re not satisfied within the first 30 days, you can request a full refund.',
     },
     {
       id: '4',
-      question: 'Do you have corporate plans?',
+      question: 'Do you provide corporate subscription plans?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'Yes, Xora offers tailored corporate plans with features designed to meet the needs of larger teams and organizations.',
     },
     {
       id: '5',
-      question: 'What happens when I’m out of storage?',
+      question: 'What happens if I run out of storage?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'If you run out of storage, you can easily upgrade to a higher plan with more space or manage your current storage by deleting old files.',
     },
     {
       id: '6',
-      question: 'Can I upgrade my plan?',
+      question: 'Can I upgrade my subscription plan?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'Absolutely! You can upgrade your plan at any time and receive a prorated discount to ensure you get the best value.',
     },
     {
       id: '7',
-      question: 'How do I invite my team?',
+      question: 'How can I invite my team to Xora?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'You can easily invite team members by sending them an invitation from your account dashboard. They’ll receive an email to join your workspace.',
     },
     {
       id: '8',
-      question: 'Do you offer training for individuals and teams?',
+      question: 'Do you offer training sessions for individuals and teams?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'Yes, we offer comprehensive training for both individuals and teams to ensure everyone gets the most out of Xora’s features.',
     },
     {
       id: '9',
-      question: 'I’m locked out of my account what do I do?',
+      question: 'What should I do if I’m locked out of my account?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'If you’re locked out of your account, you can reset your password through the “Forgot Password” option or contact support for further assistance.',
     },
   ];
   
@@ -161,52 +161,54 @@ export const features = [
     {
       id: '0',
       name: 'Jessica Saunders',
-      role: 'Globalnomads',
+      role: 'Tech Innovator',
       avatarUrl: '/images/testimonials/jessica-saunders.png',
       comment:
-        "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+        "Xora's support team feels like an extension of my own. They're always responsive, solving issues before they become problems.",
     },
     {
       id: '1',
       name: 'Mark Erixon',
-      role: 'Vid capital intl',
+      role: 'Media Operations Manager',
       avatarUrl: '/images/testimonials/mark-erixon.png',
       comment:
-        "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+        "I was unsure at first, but now Xora is an essential part of our workflow. The difference it makes is undeniable.",
     },
     {
       id: '2',
       name: 'Melanie Hurst',
-      role: 'Cyberleap',
+      role: 'Chief Technology Officer',
       avatarUrl: '/images/testimonials/melanie-hurst.png',
       comment:
-        "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+        "Switching to Xora was one of the easiest decisions we've made. It has drastically simplified our daily operations.",
     },
     {
       id: '3',
       name: 'Alicia Barker',
-      role: 'Cyberleap',
+      role: 'Business Strategist',
       avatarUrl: '/images/testimonials/alicia-barker.png',
       comment:
-        "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+        "The data insights provided by Xora are game-changing. It's like having a roadmap for our next steps in business.",
     },
     {
       id: '4',
       name: 'Becky Snider',
-      role: 'Floclips',
+      role: 'Marketing Lead',
       avatarUrl: '/images/testimonials/becky-snider.png',
       comment:
-        "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+        "We implemented Xora just a few weeks ago, and the results are already clear. Our team’s efficiency has skyrocketed!",
     },
     {
       id: '5',
       name: 'Jim Bradley',
-      role: 'Vid capital intl',
+      role: 'Project Director',
       avatarUrl: '/images/testimonials/jim-bradley.png',
       comment:
-        'The efficiency boost is undeniable. This platform has transformed our workflow, forever.',
+        "The transformation in our workflow since adopting Xora has been extraordinary. It’s a complete game-changer for us.",
     },
   ];
+
+
   
   export const logos = [
     {
